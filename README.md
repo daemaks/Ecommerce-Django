@@ -1,9 +1,5 @@
 ![PyPI - Python Version](https://img.shields.io/pypi/pyversions/django)
-# Weather application
- __theWeather__ - is web application that show you the weather forecast in your city or other city.
 
- __Used API__ - [OpenWeather](https://openweathermap.org/api)
- ___
 ## Quick start
 1. Install [PyPi](https://pypi.org/) packages:
 
